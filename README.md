@@ -6,7 +6,7 @@ This repository presents a comprehensive analysis of historical photovoltaic (PV
 
 The analysis followed the following steps:
 
-1. **Data Loading**: The PV energy data was loaded from a CSV file, which contained information about energy generation at 15-minute intervals.
+1. **Data Loading**: The PV energy data was loaded from a CSV file, which contained information about energy generation at 15-minute intervals for the year 2022. 
 
 2. **Data Exploration**: The data was explored to understand its structure, including the time intervals, power generation values, and other relevant attributes.
 
@@ -18,18 +18,18 @@ The analysis followed the following steps:
 
 ## Repository Contents
 
-- `PV_Data_Analysis.ipynb`: The Jupyter Notebook containing the step-by-step analysis of the PV energy data.
-- `data/`: This folder contains the dataset used for the analysis.
+- `PV_Analysis.ipynb`: The Jupyter Notebook containing the step-by-step analysis of the PV energy data.
+- `Data/`: This folder contains the dataset used for the analysis.
 
 ## How to Use
 
 To reproduce or build upon this analysis, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/harpsquatch/photovoltaic-energy-analysis.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/harpsquatch/Photovoltaic-Energy-Self-Consumption-and-Cost-Saving.git`.
 
 2. Install the necessary dependencies by running `pip install -r requirements.txt`.
 
-3. Open the Jupyter Notebook `PV_Data_Analysis.ipynb` and run each cell to execute the analysis step by step.
+3. Open the Jupyter Notebook `PV_Analysis.ipynb ` and run each cell to execute the analysis step by step.
 
 4. Feel free to modify the notebook to suit your specific requirements or extend the analysis further.
 
