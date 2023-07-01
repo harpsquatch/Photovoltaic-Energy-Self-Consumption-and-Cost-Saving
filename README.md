@@ -25,7 +25,7 @@ The analysis followed the following steps:
 
 To reproduce or build upon this analysis, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/[username]/photovoltaic-energy-analysis.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/harpsquatch/photovoltaic-energy-analysis.git`.
 
 2. Install the necessary dependencies by running `pip install -r requirements.txt`.
 
